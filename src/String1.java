@@ -6,7 +6,6 @@ public class String1 {
 
         StringBuilder post = pre.reverse();
 
-
         System.out.println(post.toString());
     }
 }
